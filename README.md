@@ -8,7 +8,7 @@
 		✅ Status: concluído ✅
 </h3>
 <div align="center">
-<a href="https://rocketsect-joaogabriel.vercel.app">Acesse a aplicação clicando aqui !</a>
+<a href="https://rocketsect-joaogabriel.vercel.app" target="_blank" >Acesse a aplicação clicando aqui !</a>
 </div>
 
 
@@ -40,7 +40,7 @@
 ## :warning: Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
-- [Git](https://git-scm.com)
+- [Git](https://git-scm.com){:target="_blank"}
 - [VSCode](https://code.visualstudio.com/)
 - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
@@ -63,7 +63,7 @@ $ git clone git@github.com:joaogabrieldev/rocket.sect.git
 
 ## :nerd_face: Autor
 <div align="center" >
-<a href="https://www.linkedin.com/in/joaogabrieldev/">
+<a href="https://www.linkedin.com/in/joaogabrieldev/" target="_blank" >
  <img src="https://avatars.githubusercontent.com/u/43724692?v=4" width="200px;" alt="perfil"/>
  <br />
  <b>João Gabriel</b></a> <a href="https://www.linkedin.com/in/joaogabrieldev/" title="Linkedin">🚀
