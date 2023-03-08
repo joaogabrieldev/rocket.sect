@@ -16,7 +16,7 @@
 ## 🗒️ Conteúdo
 - [Demonstração](#-Demonstração)
 - [Tecnologias](#-tecnologias)
-- [Pré-requisitos](#pré-requisitos)
+- [Pré-requisitos](#warning-pré-requisitos)
 - [Como rodar?](#-Rodando-a-aplicação)
 - [Autor](#-Autor)
 
@@ -37,7 +37,7 @@
 
 
 
-## ⚠️ Pré-requisitos
+## :warning: Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 - [Git](https://git-scm.com)
