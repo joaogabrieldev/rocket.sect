@@ -13,7 +13,7 @@
 
 
 
-## 🗒️ Conteúdo
+## :page_facing_up: Conteúdo
 - [Demonstração](#-Demonstração)
 - [Tecnologias](#-tecnologias)
 - [Pré-requisitos](#warning-pré-requisitos)
@@ -21,7 +21,7 @@
 - [Autor](#-Autor)
 
 
-## 📺 Demonstração
+## :tv: Demonstração
 
 <p align="center">
   <img alt="Demonstração" src="readme/site.png" width="600">
@@ -29,7 +29,7 @@
 
 
 
-## 🛠 Tecnologias
+## :hammer_and_wrench: Tecnologias
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
   - [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
@@ -46,7 +46,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 
 
-## 🔥 Rodando a aplicação
+## :fire: Rodando a aplicação
 ```bash
 # Clone este repositório
 $ git clone git@github.com:joaogabrieldev/rocket.sect.git
@@ -61,7 +61,7 @@ $ git clone git@github.com:joaogabrieldev/rocket.sect.git
 
 
 
-## 🤓 Autor
+## :nerd_face: Autor
 <div align="center" >
 <a href="https://www.linkedin.com/in/joaogabrieldev/">
  <img src="https://avatars.githubusercontent.com/u/43724692?v=4" width="200px;" alt="perfil"/>
