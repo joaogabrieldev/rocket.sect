@@ -8,7 +8,7 @@
 		✅ Status: concluído ✅
 </h3>
 <div align="center">
-<a href="https://wildbeast-joaogabriel.vercel.app">Acesse a aplicação clicando aqui !</a>
+<a href="https://rocketsect-joaogabriel.vercel.app">Acesse a aplicação clicando aqui !</a>
 </div>
 
 
