@@ -14,11 +14,11 @@
 
 
 ## :page_facing_up: Conteúdo
-- [Demonstração](#-Demonstração)
-- [Tecnologias](#-tecnologias)
+- [Demonstração](#tv-demonstração)
+- [Tecnologias](#hammer_and_wrench-tecnologias)
 - [Pré-requisitos](#warning-pré-requisitos)
-- [Como rodar?](#-Rodando-a-aplicação)
-- [Autor](#-Autor)
+- [Como rodar?](#fire-rodando-a-aplicação)
+- [Autor](#nerd_face-autor)
 
 
 ## :tv: Demonstração
