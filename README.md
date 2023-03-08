@@ -40,7 +40,7 @@
 ## :warning: Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
-- [Git](https://git-scm.com){:target="_blank"}
+- [Git](https://git-scm.com)
 - [VSCode](https://code.visualstudio.com/)
 - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
