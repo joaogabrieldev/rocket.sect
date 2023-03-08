@@ -16,7 +16,7 @@
 ## 🗒️ Conteúdo
 - [Demonstração](#-Demonstração)
 - [Tecnologias](#-tecnologias)
-- [Pré-requisitos](#⚠️-Pré-requisitos)
+- [Pré-requisitos](#-Pré-requisitos)
 - [Como rodar?](#-Rodando-a-aplicação)
 - [Autor](#-Autor)
 
